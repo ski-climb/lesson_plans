@@ -70,7 +70,7 @@ focus on the most recent lines of our trace, since this is usually where we'll f
 lots of lines that pass through code that isn't ours (ruby internals, gems we're using, etc).
 Usually it's our code that is the problem, so try to zero in on those lines.
 3. Read the error message 2 times before you go do anything
-4. Focus on 2 things: What did we try to do? and To what did we try to do it?
+4. Focus on 2 things: What did we try to do? and What were we trying to do that *to*?
 
 For example:
 
